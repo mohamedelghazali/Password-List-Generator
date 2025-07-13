@@ -1,6 +1,6 @@
 # 🔐 **Dz PLG** (Password List Generator)  
 
-A high-performance Python tool for generating custom password lists based on user-provided keywords. Perfect for **security professionals, pentesters, and red teamers** who need tailored wordlists for brute-force simulations, credential stuffing tests, or security research.  
+A high-performance Python tool for generating custom password lists based on user-provided keywords(10 million possible passwords). Perfect for **security professionals, pentesters, and red teamers** who need tailored wordlists for brute-force simulations, credential stuffing tests, or security research.  
 
 ---
 
