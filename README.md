@@ -47,8 +47,8 @@ A high-performance Python tool for generating custom password lists based on use
 
 2. **Set Password Length**:  
    ```plaintext
-   Minimum password length: 6
-   Maximum password length: 16
+   Minimum password length: Preferably not less than 6
+   Maximum password length: unlimited
    ```
 
 3. **Output**:  
